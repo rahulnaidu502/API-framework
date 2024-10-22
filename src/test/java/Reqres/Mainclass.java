@@ -9,5 +9,7 @@ public class Mainclass {
 
         AllAPIS api = new AllAPIS();
         api.updateUser();
+       // System.out.println("Learning GIT");
+        System.out.println("Daily Git checkin");
     }
 }
